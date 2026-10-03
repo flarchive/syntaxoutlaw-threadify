@@ -2,13 +2,21 @@
 
 > **Read-only archive of released versions of syntaxoutlaw/threadify.** Not for installation: use [Packagist](https://packagist.org/packages/syntaxoutlaw/threadify) or the [upstream repository](https://github.com/SyntaxOutlaw/threadify).
 
-**0** versions archived · Latest: [`1.2.0`](https://github.com/flarchive/syntaxoutlaw-threadify/tree/archive/v1.2.0) · License: `MIT` · Flarum: `^1.8.0`
+**9** versions archived · Latest: [`1.2.0`](https://github.com/flarchive/syntaxoutlaw-threadify/tree/archive/v1.2.0) · License: `MIT` · Flarum: `^1.8.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.1` | 2025-07-28 | `^1.8.0` | [Browse](https://github.com/flarchive/syntaxoutlaw-threadify/tree/archive/v1.0.1) |
+| `1.0.2` | 2025-07-28 | `^1.8.0` | [Browse](https://github.com/flarchive/syntaxoutlaw-threadify/tree/archive/v1.0.2) |
+| `1.0.3` | 2025-07-28 | `^1.8.0` | [Browse](https://github.com/flarchive/syntaxoutlaw-threadify/tree/archive/v1.0.3) |
+| `1.0.4` | 2025-07-28 | `^1.8.0` | [Browse](https://github.com/flarchive/syntaxoutlaw-threadify/tree/archive/v1.0.4) |
+| `1.0.5` | 2025-07-28 | `^1.8.0` | [Browse](https://github.com/flarchive/syntaxoutlaw-threadify/tree/archive/v1.0.5) |
+| `1.0.6` | 2025-07-30 | `^1.8.0` | [Browse](https://github.com/flarchive/syntaxoutlaw-threadify/tree/archive/v1.0.6) |
+| `1.1` | 2026-01-30 | `^1.8.0` | [Browse](https://github.com/flarchive/syntaxoutlaw-threadify/tree/archive/v1.1) |
+| `1.2.0` | 2026-02-13 | `^1.8.0` | [Browse](https://github.com/flarchive/syntaxoutlaw-threadify/tree/archive/v1.2.0) |
+| `v1.0.0` | 2025-07-28 | `^1.8.0` | [Browse](https://github.com/flarchive/syntaxoutlaw-threadify/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/syntaxoutlaw-threadify.json](https://github.com/flarchive/archive-index/blob/main/packages/syntaxoutlaw-threadify.json)
 
